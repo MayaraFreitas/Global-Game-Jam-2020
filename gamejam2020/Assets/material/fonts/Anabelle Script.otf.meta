@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5cdc371b6a2403b45909a6a2bc6f3dc3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Anabelle Script '
+  fontNames:
+  - 'Anabelle Script '
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4c0cf200563cf0d4b8bb718d0fdf61cb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

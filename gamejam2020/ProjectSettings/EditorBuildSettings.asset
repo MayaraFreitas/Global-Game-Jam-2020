@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c6403868060e01e4e9e6b5db9ee7a2a7
+  - enabled: 1
+    path: Assets/Scenes/PrincipalScene.unity
+    guid: 7ebfb0288b0dfb84faad7e7535bc4537
+  - enabled: 1
+    path: Assets/Scenes/SegundoAndar.unity
+    guid: 1e853f66643b09441910f17b2b2bbe93
+  - enabled: 1
+    path: Assets/Scenes/LastScene.unity
+    guid: 160b79fbe915b4d4baf165c69a0b0189
+  - enabled: 1
+    path: Assets/Scenes/Morte.unity
+    guid: 325b022f7c9a33a4f830b5ddd4c6797c
+  m_configObjects: {}
