@@ -7,6 +7,12 @@ Jogo desenvolvido em 48 horas utilizando a engine Unity durante o evento da **Gl
 (O executabel pode ser baixado pelo link abaixo)
 https://globalgamejam.org/2020/games/fragment-mind-pieces-7
 
+**Time:**
+
+[Leonardo - Desenvolvedor](https://github.com/LZagatto)
+
+(Designer não possui GitHub)
+
 ## Sobre o Jogo
 
 ![Menu](https://github.com/MayaraFreitas/Global-Game-Jam-2020/blob/master/gamejam2020/img/Menu.PNG)
