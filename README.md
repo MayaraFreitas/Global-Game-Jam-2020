@@ -4,6 +4,8 @@
 
 Jogo desenvolvido em 48 horas utilizando a engine Unity durante o evento da **Global-Game-Jam-2020** no campus da Unicamp com o tema **Repair(Reparar)**. O time foi composto por 3 pessoas (2 desenvolvedores e 1 designer).
 
+Terceira participação e segundo jogo entrege com sucesso!
+
 (O executabel pode ser baixado pelo link abaixo)
 https://globalgamejam.org/2020/games/fragment-mind-pieces-7
 
@@ -11,8 +13,7 @@ https://globalgamejam.org/2020/games/fragment-mind-pieces-7
 
 [Leonardo - Desenvolvedor](https://github.com/LZagatto)
 
-(Designer não possui GitHub)
-
+Lucas F. U. Fernandes (Não possui GitHub)
 ## Sobre o Jogo
 
 ![Menu](https://github.com/MayaraFreitas/Global-Game-Jam-2020/blob/master/gamejam2020/img/Menu.PNG)
