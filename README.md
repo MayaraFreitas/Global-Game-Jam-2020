@@ -11,9 +11,12 @@ https://globalgamejam.org/2020/games/fragment-mind-pieces-7
 
 **Time:**
 
-[Leonardo - Desenvolvedor](https://github.com/LZagatto)
+[Leonardo Zagatto - Desenvolvedor](https://github.com/LZagatto)
 
-Lucas F. U. Fernandes (Não possui GitHub)
+Lucas F. U. Fernandes (Não possui GitHub)]
+
+[Mayara A Freitas - Desenvolvedor](https://github.com/MayaraFreitas)
+
 ## Sobre o Jogo
 
 ![Menu](https://github.com/MayaraFreitas/Global-Game-Jam-2020/blob/master/gamejam2020/img/Menu.PNG)
