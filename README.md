@@ -1,10 +1,10 @@
 # Fragment (Mind Pieces)
 
-## Desenvolvimento
+## Desenvolvimento'
 
 Jogo desenvolvido em 48 horas utilizando a engine Unity durante o evento da **Global-Game-Jam-2020** no campus da Unicamp com o tema **Repair(Reparar)**. O time foi composto por 3 pessoas (2 desenvolvedores e 1 designer).
 
-Terceira participação e segundo jogo entrege com sucesso!
+Terceira participação e segundo jogo entregue com sucesso!
 
 (O executavel pode ser baixado pelo link abaixo)
 https://globalgamejam.org/2020/games/fragment-mind-pieces-7
@@ -23,7 +23,7 @@ Lucas F. U. Fernandes (Não possui GitHub)]
 
 ### Sinopse
 
-Pina e Elly encontram-se correndo durante uma tempestade, logo atrás delas vemos um clarão de tochas vindo em sua direção. Com uma expressão de medo Pina corre segurando sua companheira pela mão e uma peça roubada de seu vilarejo em outra, ao atravessar parte da floresta elas encontram uma clareira onde se encontra uma antiga torre, cujo topo brilha com uma luz rocha, Pina sabe que ao topo exite um cristal na qual apenas era dito em textos antigos e histórias para crianças dormirem em sua casa e segundo as histórias este cristal possui a habilidade de transportar um indivíduo para um lugar chamado pelos ancestrais de “Malarum”, o mais próximo de um paraíso. Pina e Elly correm pelos corredores da torre apenas ouvindo os gritos de raiva vindos da entrada, ao chegar ao topo Elly cai no chão próximo ao cristal, devido a exaustão, Pina por sua vez leva a peça ao canto da máquina, segundos antes de encaixar a peça, um trovão atinge o canto da estrutura causando um desabamento e levando Pina e a peça ao abismo abaixo ,chocando-se contra partes da montanha e batendo sua cabeça em uma pedra logo ao final.. Pina acorda com fortes dores de cabeça, ao olhar a seu redor lembra de que precisava imediatamente chegar ao topo da torre, apenas isso, nao lembrava de um propósito nem mesmo de um objetivo, apenas que deverá chegar ao topo.
+Pina e Elly encontram-se correndo durante uma tempestade, logo atrás delas vemos um clarão de tochas vindo em sua direção. Com uma expressão de medo Pina corre segurando sua companheira pela mão e uma peça roubada de seu vilarejo em outra, ao atravessar parte da floresta elas encontram uma clareira onde se encontra uma antiga torre, cujo topo brilha com uma luz rocha, Pina sabe que ao topo existe um cristal na qual apenas era dito em textos antigos e histórias para crianças dormirem em sua casa e segundo as histórias este cristal possui a habilidade de transportar um indivíduo para um lugar chamado pelos ancestrais de “Malarum”, o mais próximo de um paraíso. Pina e Elly correm pelos corredores da torre apenas ouvindo os gritos de raiva vindos da entrada, ao chegar ao topo Elly cai no chão próximo ao cristal, devido a exaustão, Pina por sua vez leva a peça ao canto da máquina, segundos antes de encaixar a peça, um trovão atinge o canto da estrutura causando um desabamento e levando Pina e a peça ao abismo abaixo ,chocando-se contra partes da montanha e batendo sua cabeça em uma pedra logo ao final.. Pina acorda com fortes dores de cabeça, ao olhar a seu redor lembra de que precisava imediatamente chegar ao topo da torre, apenas isso, não lembrava de um propósito nem mesmo de um objetivo, apenas que deverá chegar ao topo.
 
 ### Objetivo
 
@@ -35,7 +35,7 @@ Pina sem lembranças inicia sua jornada sem muitas lembranças de onde está e d
 
 ![Inicio](https://github.com/MayaraFreitas/Global-Game-Jam-2020/blob/master/gamejam2020/img/Inicio.PNG)
 
-O jogador deve onter os 5 fragmentos espalhados por dois andates, e não poderá subir enquanto não encontrar o necessário no andar atual. Ao obter os fragmentos, Pina irá recuperando sua memória e contextualizando da situação.
+O jogador deve coletar os 5 fragmentos espalhados por dois andares, e não poderá subir enquanto não encontrar o necessário no andar atual. Ao obter os fragmentos, Pina irá recuperando sua memória e contextualizando da situação.
 
 ![Fragmentos](https://github.com/MayaraFreitas/Global-Game-Jam-2020/blob/master/gamejam2020/img/Fragmentos.png)
 
